@@ -16,9 +16,7 @@ short_summary: Check for security status of MacOS devices
 
 * Anti-Virus Version
 * User privilege
-* Drive Encryption
-
-System preferences -> Privacy and Security -> Filevault (on). 
+* Drive Encryption 
 
   CLI:
 
